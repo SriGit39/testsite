@@ -4,7 +4,7 @@ window.VWO = window.VWO || [];
 // Replace TAG_VALUE with your actual tag value
 window.VWO.push(['tag', 'email', ema, 'user']);
 
-let gend = "male";
+let gender = 'male';
 window.VWO = window.VWO || [];
 // Replace TAG_VALUE with your actual tag value
-window.VWO.push(['tag', 'Gender', gend, 'user']);
+window.VWO.push(['tag', 'Gender', gender, 'user']);
